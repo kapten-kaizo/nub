@@ -8,7 +8,7 @@ $ termux-setup-storage
 ### Install?
 ````bash
 $ pkg install git python
-$ python -m pip install requests bs4
+$ python -m pip install requests bs4 futures
 $ git clone https://github.com/dahlahmales/nub
 ````
 ### Usage?
