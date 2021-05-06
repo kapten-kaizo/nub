@@ -1,5 +1,6 @@
 ### Hello World!
 * Tools ini untuk random crack pw akun fb
+![gambar](https://raw.githubusercontent.com/dahlahmales/nub/main/Screenshot_2021-05-02-15-07-32-83.jpg)
 ### Setup?
 ````bash
 $ termux-setup-storage
